@@ -23,7 +23,6 @@ sudo apt install python3-rosdep
 
 sudo apt install python3-roslaunch
 
-
 sudo rosdep init
 
 rosdep update
